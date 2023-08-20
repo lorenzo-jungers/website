@@ -20,5 +20,5 @@ let nome;
  document.getElementById("Mandar").onclick = function(){
     nome = document.getElementById("nome").value
     console.log("Seu nome é",nome)
-    
+    document.getElementById("p1").innerHTML = "Bom dia" + nome".";
  }
