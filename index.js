@@ -21,4 +21,5 @@ let nome;
     nome = document.getElementById("nome").value
     console.log("Seu nome é",nome)
     document.getElementById("p1").innerHTML = "Bom dia " +nome+".";
+    
  }
