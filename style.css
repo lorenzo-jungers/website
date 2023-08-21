@@ -1,0 +1,26 @@
+.Horario {
+
+    font-size: 70px;
+    color: gold;
+    text-align: center;
+    -webkit-text-stroke-width: 3px ;
+    line-height:6px;
+}
+.Titulo{
+
+        -webkit-text-stroke-width: 2px ;
+        
+}
+body{
+    background-color:rgb(39, 38, 38);
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 35px;
+    color: gold;
+
+    border-color: black;
+
+    -webkit-text-stroke-color: black;
+}
