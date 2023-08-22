@@ -4,11 +4,28 @@
     color: gold;
     text-align: center;
     -webkit-text-stroke-width: 3px ;
-    line-height:6px;
+    line-height: 100px;
+
+    
+    
+}
+.container{
+    border: 10 black;
+}
+.border{
+
+    border-radius: 10px;
+    border: 10px white;
+    border-width: 10px;
+    padding: 10px;
+    background-color: rgb(37, 88, 133);
+
+
 }
 .Titulo{
-
-        -webkit-text-stroke-width: 2px ;
+ 
+        -webkit-text-stroke-width: 3px ;
+        font-size: 70px;
         
 }
 body{
